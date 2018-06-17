@@ -1,0 +1,10 @@
+
+body{
+  /* eliminates any automatic margins that come with certain elements */ */
+  margin: 0;
+
+}
+
+canvas{
+      border: 1px solid black;
+  }
